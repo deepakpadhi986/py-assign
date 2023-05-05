@@ -40,6 +40,11 @@ pip install openai
 And your api key inside ```app.py```
 https://github.com/deepakpadhi986/py-assign/blob/1cb290b6c4977df87246bc8ff737284ec63a5463/app.py#L6
 
+Navigate to ```py-assign``` folder and run the following command 
+```bash
+cd py-assign
+```
+
 Run the ```app.py``` file using
 ```bash
 python app.py
