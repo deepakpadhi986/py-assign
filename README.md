@@ -27,6 +27,7 @@ Open your command prompt and change your project directory to ```py-assign``` an
 python -m venv venvapp
 cd venvapp/Scripts
 activate
+cd../.. 
 ```
 
 Downloading required packages
