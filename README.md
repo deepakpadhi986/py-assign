@@ -42,7 +42,7 @@ https://github.com/deepakpadhi986/py-assign/blob/1cb290b6c4977df87246bc8ff737284
 
 Run the ```app.py``` file using
 ```bash
-python run app.py
+python app.py
 ```
 
 click on the url to view it on the browser
@@ -50,7 +50,7 @@ click on the url to view it on the browser
 To run the test file
 Run the ```test.py``` file using
 ```bash
-python run test.py
+python test.py
 ```
 
 ## Preview
