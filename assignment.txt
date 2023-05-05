@@ -1,0 +1,41 @@
+Internship Assignment: ChatGPT API Integration and Flask Web App Development
+
+Objective: The purpose of this assignment is to evaluate your skills in Python, Flask, API integration, prompt engineering, and web development. You will develop a simple web application that integrates with the ChatGPT API and demonstrates your ability to work with the mentioned technologies.
+
+Task 1: Create a Python Flask Web Application
+
+1. Set up a Python Flask web application with the following features:
+   a. A homepage with a simple form that accepts user input for a question or prompt.
+   b. A results page that displays the message entered.
+
+2. Integrate the ChatGPT API:
+   a. Use Python to make API calls to the ChatGPT API.
+   b. Design and implement ChatGPT prompts that provide context for user inputs.
+   c. Include error handling for API errors or failed requests.
+   d. Implement it in the flask app you created.
+
+3. Implement basic web development principles:
+   a. Use HTML, CSS, and JavaScript for frontend design.
+   b. Ensure the web application is responsive and works on different screen sizes.
+   c. Ensure compatibility with popular web browsers.
+   d. Implement it in the flask app you created.
+
+Task 2: Write Test Cases and Connect Flask Endpoints
+
+1. Write test cases for the Python Flask app:
+   a. Test the ChatGPT API integration.
+   b. Test the proper rendering of the homepage and results page.
+
+2. Connect Flask endpoints and make API calls to them:
+   a. Implement the necessary routes and controllers.
+   b. Make sure the web application is functional and can make API calls as required.
+
+Task 3: Maintain Technical Documentation
+
+1. Create and maintain technical documentation for the web application:
+   a. Explain the purpose and functionality of the application.
+   b. Provide instructions on how to set up, install, and run the application.
+   c. Include examples of API calls and responses.
+   d. Host the documentation on GitHub for easy access and collaboration.
+
+Submission: Please submit your completed assignment in a public GitHub repository. Include a README file with instructions on how to set up, run, and test the application. Also, provide a link to the live web application if possible.
