@@ -30,8 +30,9 @@ activate
 cd../.. 
 ```
 
-Downloading required packages
+Go to ```py-assign``` folder & download required packages
 ```bash
+cd py-assign
 pip install -r requirements.txt
 ```
 
