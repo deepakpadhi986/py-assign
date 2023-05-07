@@ -26,7 +26,7 @@ def home():
 
 @app.route('/result', methods=['POST'])
 def result():
-    prompt = request.form['message']
+    prompt = request.form['prompt']
     response = generate_response(prompt)
     return render_template('result.html', prompt=prompt, response=response)
 
