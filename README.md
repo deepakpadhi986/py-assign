@@ -32,9 +32,7 @@ cd../..
 
 Downloading required packages
 ```bash
-pip install flask 
-pip install pytest-flask 
-pip install openai 
+pip install -r requirements.txt
 ```
 
 And your api key inside ```app.py```
